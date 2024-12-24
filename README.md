@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Tyros007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Tyros007/Tyros007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Cybersecurity Specialist
+with expertise in protecting organizational 
+assets through risk management, incident response, 
+and advanced security solutions. Skilled in 
+threat analysis, compliance
